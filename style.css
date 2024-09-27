@@ -1,0 +1,20 @@
+.logo {
+    width: 10%
+}
+
+.title  {
+    color: white;
+}
+.parrafo {
+    color: white;
+}
+body {
+    background-color: rgba(0, 145, 255, 0.778);
+}
+button {
+    background-color: rgb(2, 184, 2);
+}
+.section {
+    background-color: white;
+    margin: 0cm;
+}
