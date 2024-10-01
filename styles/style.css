@@ -1,0 +1,24 @@
+
+.header {
+    background-color: black;
+    position: fixed;
+    margin-top: 0;
+    
+}
+.logo {
+    width: 50px;
+}
+.main-container {
+    background-color: antiquewhite;
+    height: 160vh;
+}
+@media (min-width: 768px) {
+    .title {
+       background-color: chocolate;
+       
+    }
+   }
+   
+   @media (min-width: 1024px) {
+   
+   }
