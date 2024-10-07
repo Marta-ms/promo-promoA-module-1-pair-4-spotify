@@ -37,8 +37,13 @@
 .div_grid {
   background-color: lightblue;
   display: grid;
-  grid-column: 1fr, 1fr, 1fr, 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 40px, 40px;
+  border: 1px solid red;
 }
+.article1 {
+}
+
 @media (min-width: 768px) {
   .title {
     background-color: chocolate;
